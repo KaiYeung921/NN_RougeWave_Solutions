@@ -6,8 +6,8 @@ Rogue waves can be modeled using ODEs — and thanks to physics, we know the ana
 
 The goal is to document the changes and (hopefully) improvements made over the course of this research.
 
-- [`baseline.ipynb`](./Lesson_01_1DRogueWave.ipynb) — Initial PINN architecture given by research Prof.
-- [`loss_experiments.ipynb`](./rogue_wave_nn.ipynb) — Custom notebook that has my changes
+- [`Lesson_01_1DRogueWave.ipynb`](./Lesson_01_1DRogueWave.ipynb) — Initial PINN architecture given by research Prof.
+- [`rogue_wave_nn.ipynb`](./rogue_wave_nn.ipynb) — Custom notebook that has my changes
 - [`CHANGELOG`](./CHANGELOG.md) - my changes documented
 
 ---
