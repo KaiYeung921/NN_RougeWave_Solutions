@@ -11,7 +11,7 @@ The goal is to document the changes and (hopefully) improvements made over the c
 ## How It Works
 
 1. **ODE loss** — enforces that the network's output satisfies the governing equation
-2. **Solution selector loss** — steers the network toward a specific solution in the ODE family
+2. **Custom Loss Functions** — steers the network toward a specific solution in the ODE family set by setting custom loss to specfic values we want to optmize for. (eg. the height, width etc..)
 3. **MSE loss** — trains against analytically-derived ground truths
 
 ---
